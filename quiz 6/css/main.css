@@ -1,0 +1,16 @@
+body{
+	background-color: red;
+}
+h1{
+	text-align: right;
+	background-color: blue;
+}
+p{
+	font-family: verdana;
+	font-size: 20px;
+	width:60%;
+}
+div{
+	background-color: white;
+	width: 60%;
+}

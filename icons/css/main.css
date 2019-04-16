@@ -1,0 +1,41 @@
+body{
+	background-color: #fff;
+}
+.cont{
+	background-color: #ccc;
+	width:800px;
+	height:600px;
+	margin:0 auto;
+	text-align: center;
+	padding:10px;
+}
+.fa-twitter{
+	color:#fff;
+	font-size: 30px;
+	float:left;
+	border-radius: 15px;
+	background-color:lightblue;
+	width:150px;
+}
+.fa-facebook{
+	color:#fff;
+	font-size: 30px;
+	float:right;
+	border-radius: 15px;
+	background-color:blue;
+	width:150px;
+}
+.fa-palmchat{
+	color:#fff;
+	font-size: 30px;
+	border-radius: 15px;
+	background-color: #555;
+	width:800px;
+}
+.fa-instagram{
+	color:#fff;
+	font-size: 30px;
+	border-radius: 15px;
+	background-color: #888;
+	width:100px;
+}

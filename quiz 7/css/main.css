@@ -1,0 +1,17 @@
+body{
+	background-color: black;
+	width:1300px;
+}
+h1{
+	background-color:#222;
+	color: blue;
+	font-size: 30px;
+	text-align: center;
+	padding:20px;
+	width:730px;
+}
+.cont{
+	margin:0px auto;
+	width:800px;
+
+}

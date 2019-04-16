@@ -1,0 +1,35 @@
+body{
+	width:700px;
+	margin:80px;
+	background-color: blue
+
+
+}
+h1{
+	color: maroon;
+	text-align: left;
+}
+h2{
+	color:maroon;
+	text-align: left;
+}
+.content_1{
+	background-color: purple;
+	width:700px;
+	margin:80px;
+	padding:60px;
+	text-align: center;
+	font-family: Arial, Helvetica, sans-serif;
+}
+.content_2{
+	text-align: center;
+	background-color: grey;
+	margin: auto;
+	padding: 30px;
+}
+.content_3{
+	background-color: maroon;
+	width:400px;
+	margin: auto;
+	padding:20px;
+}

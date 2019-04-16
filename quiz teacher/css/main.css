@@ -1,0 +1,35 @@
+body{
+	background-color: #d3c4a3;
+	width: 1000px;
+	font-size: 20px;
+}
+header{
+	background-color:#cca65d; 
+	padding:10px;
+	color:#fff;
+	height:54px;
+	text-transform:uppercase;
+	width: 1400px;
+	line-height: 54px;
+}
+h1{
+	color:#423828;
+
+}
+.content{
+	width:700px;
+	margin:0 auto;
+	background-color:#fff;
+	padding:40px;
+}
+h6{
+	text-align:right;
+}
+footer{
+	background-color: #413827;
+	height: 70px;
+	text-align: center;
+	line-height: 40px;
+	color: #d3c4a3;
+	width:1400px;
+}

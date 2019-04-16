@@ -1,0 +1,41 @@
+body{
+	background-color: brown;
+}
+.content{
+	width:300px;
+	margin: 0 auto;
+	min-height:80px;
+	padding:30px;
+	text-align: center;
+}
+
+.content.panel{
+	background-color: maroon;
+	text-align: center;
+	width: 300px;
+	float: right;
+}
+	
+}
+.content.panel.one{
+	background-color: blue;
+}
+.content.panel.two{
+	background-color: pink;
+
+}
+.content.panel.three{
+	background-color: orange;
+
+}
+.content.panel .four{
+	background-color: purple;
+
+}
+.content.panel.five{
+	background-color: yellow;
+
+}
+.content.panel.six{
+	background-color: green;
+}

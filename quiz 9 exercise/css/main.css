@@ -1,0 +1,24 @@
+body{
+	background:#fff;
+	width:1500px;
+}
+.cont{
+	background-color:#d0fed0;
+	width:457px;
+	height:595px;
+	margin: 0 auto;
+	padding: 10px 55px 40px;
+	font-family: Georgia, "Times New Roman", Times, serif;text-align: center;
+	font-size: 25px;
+	text-align: left;
+	border:left;
+
+}
+input{
+	border-color: #1bebeb;
+}
+.button{
+	background:#304bf4;
+	color:green;
+	width:250px;
+}

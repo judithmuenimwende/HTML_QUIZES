@@ -1,0 +1,19 @@
+body{
+	background-color:#ccc;
+}
+h1{
+	background-color:#fff;
+	text-align: center;
+	padding:20px;
+	width:720px;
+	font-family: 'Bowlby One SC', cursive;
+	font-weight: normal;
+}
+.cont{
+	margin:100px;
+	width:760px;
+	background-color:#fff;
+	padding-bottom: 40px;
+	margin-top:0px;
+	vertical-align: middle;
+}

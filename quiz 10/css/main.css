@@ -1,0 +1,55 @@
+body{
+	background:#fff;
+}
+header{
+	left:0;
+	right:0;
+	background-color:#cbe3cb;
+	text-align:center;
+	padding:20px;
+	position:fixed;
+	top:0;
+
+}
+.main{
+	width:500px;
+	height:400px;
+	background-color:#70fdea;
+	margin:0 auto;
+	position: relative;
+	margin-top:55px;
+	padding:40px;
+
+}
+.test{
+	width:100px;
+	height:100px;
+	background-color:#ccc;
+	position:absolute;
+	left:-60px;
+	top:-30px;
+}
+.form{
+	width:100px;
+	height:100px;
+	background-color:#ccc;
+	position:absolute;
+	right:-60px;
+	top:-30px;
+}
+.form1{
+	width:100px;
+	height:100px;
+	background-color:#ccc;
+	position:absolute;
+	bottom:-60px;
+	left: -30px;
+}
+.form2{
+	width:100px;
+	height:100px;
+	background-color:#ccc;
+	position:absolute;
+	bottom:-60px;
+	right: -30px;
+}
